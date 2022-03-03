@@ -1,4 +1,8 @@
-#include<iostream>
+/*
+Given an array of non-negetive integers . Design a linear algorithm and implement it usng a program to find whether a given element is present in an array or not.
+Also find the total number of comparisions.
+
+*/
 #include<iostream>
 using namespace std;
 int main(){
