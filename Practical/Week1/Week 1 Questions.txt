@@ -1,0 +1,14 @@
+                Week 2:-                                          -**- Date : 10 March 2022 -**-
+
+
+
+
+
+
+Q1. Given an array of non negetive intefers , design a linear algorithm( O(n) time complexity) and implement it using a program to find whether a given key element is present in the array or not.
+Also find the total number of comparisions done.
+
+
+
+Q2. Given an already sorted array of positive integers , design an algorithm( O(log n) time complexity) and implement it using a program to find whether a given key is present in the array or not.
+Also find the total number of comparisions done.(Use binary search).
