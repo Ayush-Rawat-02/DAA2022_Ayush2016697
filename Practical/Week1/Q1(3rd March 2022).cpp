@@ -1,6 +1,6 @@
 /*
-Given an array of non-negetive integers . Design a linear algorithm and implement it usng a program to find whether a given element is present in an array or not.
-Also find the total number of comparisions.
+Given an array of non negetive intefers , design a linear algorithm( O(n) time complexity) and implement it using a program to find whether a given key element is present in the array or not.
+Also find the total number of comparisions done.
 
 */
 #include<iostream>
