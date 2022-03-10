@@ -1,6 +1,6 @@
 /*
-  Given a sorted array of positive integers , Design an algorithm and implement it using a program to find whether a given element is present in the array or not.
-  Also find the total number of comparisions.
+  Given an already sorted array of positive integers , design an algorithm( O(log n) time complexity) and implement it using a program to find whether a given key is present in the array or not.
+  Also find the total number of comparisions done.(Use binary search)
 */
 
 #include<iostream>
