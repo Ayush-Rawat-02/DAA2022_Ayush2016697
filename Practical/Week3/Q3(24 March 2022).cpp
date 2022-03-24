@@ -1,3 +1,7 @@
+/*
+Q3.WAP to implement insertion sort and find the total number of comparisions?
+*/
+
 #include<iostream>
 using namespace std;
 int main()
@@ -25,9 +29,9 @@ int main()
             count++;
         }
         arr[j+1]=key;
-        cout<<"Loop no "<<i<<endl;
-        for(int i=0;i<n;i++) cout<<arr[i]<<"  ";
-        cout<<endl;
+//         cout<<"Loop no "<<i<<endl;
+//         for(int i=0;i<n;i++) cout<<arr[i]<<"  ";
+//         cout<<endl;
     }
   
   //Displaying the sorted array and the number of comparisons
