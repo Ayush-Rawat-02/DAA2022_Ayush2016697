@@ -1,5 +1,5 @@
 /*
-Q1.WAP to implement bubble sort and find the total number of comparisions?
+Q2.WAP to implement selection sort and find the total number of comparisions?
 */
 
 #include<iostream>
