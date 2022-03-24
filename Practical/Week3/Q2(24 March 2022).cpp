@@ -1,3 +1,7 @@
+/*
+Q1.WAP to implement bubble sort and find the total number of comparisions?
+*/
+
 #include<iostream>
 using namespace std;
 int main()
