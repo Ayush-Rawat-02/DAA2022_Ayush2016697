@@ -1,7 +1,3 @@
-/*
-Q1.WAP to implement bubble sort and find the total number of comparisions?
-*/
-
 #include<iostream>
 using namespace std;
 int main()
@@ -16,19 +12,21 @@ int main()
   
   for(int i=0;i<n;i++) cin>>arr[i];
   
-  //Sorting the entered array
+  //Sorting the entered array and counting the number of comparisions
   
+  int count = 0;
   for(int i=0;i<n-1;i++){
     for(int j=i+1;j<n;j++){
+        count++;
       if(arr[i]>arr[j]){
         swap(arr[i],arr[j]);
       }
     }
   }
   
-  //Displaying the sorted array
+  //Displaying the sorted array and number of comparisions
   
   for(int i=0;i<n;i++)  cout<<arr[i]<<"  ";
-  cout<<endl;
+  cout<<endl<<"Number of comparisions : "<<count<<endl;
   return 0;
 }
