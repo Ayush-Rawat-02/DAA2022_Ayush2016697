@@ -1,0 +1,5 @@
+Q1 Implement merge sort
+
+Q2 Implement quick sort
+
+Q3 Given an unsorted array of integers , design and implement an algorithm using a program to find the k^th smallest element 
