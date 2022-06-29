@@ -1,3 +1,7 @@
-/*Given an unsorted array of alphabets containing duplicate elements design a algorithm and implement it using  a program to 
- *find which alphabet has maximum number of occurance and print it
+/*
+Q1 - Given an unsorted array of alphabets containing duplicate elements design a algorithm and implement it using  a program to 
+find which alphabet has maximum number of occurance and print it
+
+Q2 - You have been given two sorted integers of size m and n design an algorithm to find list of element to find common 
+elements to both the lists.
  */
