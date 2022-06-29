@@ -4,4 +4,7 @@ find which alphabet has maximum number of occurance and print it
 
 Q2 - You have been given two sorted integers of size m and n design an algorithm to find list of element to find common 
 elements to both the lists.
+
+Q3 - Given an unsorted array of integers design a algorithm and implement it using a program to check whether two element exist such 
+ *that their sum is equivalent to the given key
  */
