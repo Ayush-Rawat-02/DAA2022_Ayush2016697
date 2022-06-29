@@ -1,5 +1,0 @@
-                                                                              Week 7                                          19 May 2022
-
-Q1. WAP to implement Kruskal's algorithm to find minimum spanning tree of a given graph.
-
-Q2. WAP to implement Prims' algorithm to find the shortest path of all nodes from a source node in a given graph.
